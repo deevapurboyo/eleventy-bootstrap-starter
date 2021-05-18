@@ -1,12 +1,12 @@
 {
-  "name": "eleventy-bootstrap-starter",
+  "name": "vintagefinds",
   "version": "1.0.0",
-  "description": "This is a base starter eleventy repository with Bootstrap 5.0",
+  "description": "Find Vintage Clothes",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve --quiet"
   },
-  "author": "Chris Stein",
+  "author": "Deeva Purboyo",
   "devDependencies": {
     "@11ty/eleventy-navigation": "^0.1.4",
     "js-yaml": "^3.13.1",
