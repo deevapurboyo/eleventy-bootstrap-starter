@@ -1,9 +1,9 @@
 ---
-title: Goodwill NYNJ Store & Donation Center
+title: A beginner’s guide to buying and selling secondhand fashion.
 layout: base
-description: blavajbak
-image: /images/goodwill.png
-tag: homestore
+description: It’s easier than ever to resell high-end remorse buys and preloved items in Australia. But it takes a bit of effort to get reselling right.
+image: /images/vintagestore.jpg
+tag: whatsnew
 ---
 
 
