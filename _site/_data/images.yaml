@@ -19,3 +19,9 @@
   location: Hudson Yards, New York, NY 
   description: The Vessel seen from above.
   tags: nyc, new york, architecture
+
+- src: /images/beaconscloset.jpeg
+  title: Beacons Closet
+  description: Beacons Closet
+  tags: nyc, new york, architecture
+
