@@ -10,3 +10,7 @@ tag: homestore
 
 
 # {{title}}
+
+<img src="{{image}}" alt="buffalo exchange storefront">
+
+## {{description}}

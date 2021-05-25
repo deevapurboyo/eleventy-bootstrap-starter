@@ -7,3 +7,4 @@ tag: smallbusiness
 ---
 
 # {{title}}
+<img src=“{{image}}”>

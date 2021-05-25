@@ -10,3 +10,8 @@ tag: homestore
 
 
 # {{title}}
+
+<img src="{{image}}" alt="beacons closet store">
+
+## {{description}}
+

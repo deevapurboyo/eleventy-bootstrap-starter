@@ -1,6 +1,8 @@
 /* You can add your CUSTOM CSS HERE */
 
-#mapid { height: 380px; }
+.home #mapid{ height: 380px; }
+.stores #mapid { height: 580px; }
+
 h1, h2{
     color: #675041;
     font-weight: bold;
