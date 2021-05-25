@@ -48,7 +48,7 @@ tags:
   <img class="card-img-top" src="images/vintagestore.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">A beginner’s guide to buying and selling secondhand fashion.</h5>
-    <p class="card-text">It’s easier than ever to resell high-end remorse buys and preloved items in Australia. But it takes a bit of effort to get reselling right</p>
+    <p class="card-text">It’s easier than ever to resell high-end remorse buys and preloved items in Australia. But it takes a bit of effort to get reselling right.</p>
     <a href="#" class="btn btn-primary">See More</a>
   </div>
 </div>
