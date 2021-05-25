@@ -111,7 +111,7 @@ tags:
     <div class="row">
     <div class="col-md-4 col-sm-6">
       <div class="card">
-  <img class="card-img-top" src="images/buffaloexchange.jepg" alt="Card image cap">
+  <img class="card-img-top" src="images/buffaloexchange.jpeg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Buffalo Excahange</h5>
     <p class="card-text">Hip chain that buys, sells, trades trendy vintage & used clothing & accessories for men & women.
