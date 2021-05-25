@@ -73,7 +73,7 @@ tags:
   <div class="row">    
     <div class="col">
       <div class="card">
-  <img class="card-img-top" src="images/selcouthlogo.png" alt="Card image cap">
+  <img class="card-img-top" src="images/pricetag-selcouth.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Selcouth</h5>
     <p class="card-text">Hand picked vintage and streetwear.</p>
