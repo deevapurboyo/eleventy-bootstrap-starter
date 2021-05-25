@@ -12,7 +12,9 @@ tags:
    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
    crossorigin=""/>
 <div class="container home">
-  
+
+
+ <img class="card-img-top" src="images/vintagefindslogo.png" alt="Card image cap"> 
   
   <h2>Find Location</h2>
  <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark mb-5">
@@ -32,7 +34,7 @@ tags:
   <div class="card-body">
     <h5 class="card-title">A beginner’s guide to buying and selling secondhand fashion.</h5>
     <p class="card-text">It’s easier than ever to resell high-end remorse buys and preloved items in Australia. But it takes a bit of effort to get reselling right.</p>
-    <a href="#" class="btn btn-primary">See More</a>
+    <a href="/info" class="btn btn-primary">See More</a>
   </div>
 </div>
 </div>
@@ -46,7 +48,7 @@ tags:
   <div class="card-body">
     <h5 class="card-title">Why vintage fashion is the new smart investment.</h5>
     <p class="card-text">If you've ever complained about the cost of new trainers, consider this. </p>
-    <a href="#" class="btn btn-primary">See More</a>
+    <a href="/info" class="btn btn-primary">See More</a>
   </div>
 </div>
 </div>
@@ -55,7 +57,7 @@ tags:
    
   
   <h3>Support Small Business</h3>
-  <div class="row mb-5">    
+  <div class="row sm-5">    
     <div class="col">
       <div class="card">
   <img class="card-img-top" src="images/pricetag-selcouth.jpg" alt="Card image cap">
@@ -68,7 +70,7 @@ tags:
 </div>
 </div>   
 
-  <div class="row mb-5">    
+  <div class="row sm-5">    
     <div class="col">
       <div class="card">
   <img class="card-img-top" src="images/5starvintage.jpeg" alt="Card image cap">
